@@ -1,0 +1,9 @@
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\emirm\Desktop\C#\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
